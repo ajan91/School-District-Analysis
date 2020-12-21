@@ -60,7 +60,7 @@ Deliverable 1 Outcome.
 - The average reading score for each grade level from each school
 - The scores by school spending per student, by school size, and by school type"
 
-The following are to illustrate the findings for the Deliberable 1 requirements. The instruction of each requirement is given with the corresponding illustration.
+The following are to illustrate the findings for the Deliberable 2 requirements. The instruction of each requirement is given with the corresponding illustration.
 
 Deliverable 2. Requirement 1. "The district summary DataFrame" 
 ![](Resources/D2R1.png)
