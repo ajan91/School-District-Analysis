@@ -24,7 +24,7 @@ Tables presenting each of the following metrics:
 
 # Deliverable 1: Replace Ninth-Grade Reading and Math Scores
 
-**Deliverable 1 Instructions
+**Deliverable 1 Instructions**
 
 "Using the Pandas loc method with conditional statements and comparison and logical operators, select the ninth-grade reading and math scores for Thomas High School. Then, use the Pandas NumPy module to change the reading and math scores to NaN."
 
