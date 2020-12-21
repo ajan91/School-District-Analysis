@@ -88,6 +88,7 @@ Deliverable 2. Requirement 8. "The scores by school size"
 
 Deliverable 2. Requirement 9. "The scores by school type"
 ![](Resources/D2R9.png)
+![](Resources/D2R10.png)
 
 # Discussion
 
