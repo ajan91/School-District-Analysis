@@ -101,22 +101,46 @@ Deliverable 2. Requirement 9. "The scores by school type"
 
 "Results: Using bulleted lists and images of DataFrames as support, address the following questions."
 
-How is the district summary affected?
+**How is the district summary affected?**
+District summary post
+![](Resources/DistictSummaryPost.png)
 
+Distarict summary pre
+![](Resources/DistictSummaryPre.png)
 
-How is the school summary affected?
+*Please look at the images above.*
+In terms of percentage of of passing math, reading scores and overall passing, a slight decrease.
+In terms of average math scores, a slight decrease
+In terms of average reading scores, neligble. 
 
+**How is the school summary affected?**
+Pre-update = Thomas School was ranked 2nd
+![](Resources/SchoolSummaryPre.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Post-update = Thomas School was ranked 8th
+![](Resources/SchoolSummaryPost.png)
 
+Therefore, Post-update change decreased school summary.
 
-How does replacing the ninth-grade scores affect the following:
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+It decreased the overl performance relative to other schools once the math and reading scores were replaced. To illustrate this please look at the following:
+![](Resources/SchoolSummaryPre.png)
+![](Resources/SchoolSummaryPost.png)
+
+Therefore, Post-update change was do to refactoring of data.
+
+**How does replacing the ninth-grade scores affect the following:**
 - Math and reading scores by grade
+
 
 - Scores by school spending
 
+
 - Scores by school size
+
 
 - Scores by school type
 
-"Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs."
+**Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
+
+In conclusion, the average math and reading scores decreased, the school summary shown a decrease in ranking with respect to other schools, the % scores for both math and reading also shown a decrease in value and this can also be seen by the school spending (another decrease differential). 
