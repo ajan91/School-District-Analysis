@@ -23,10 +23,12 @@ Here is the list of deliverables for the analysis of the school district:
 The following are to illustrate the findings for the Deliberable 1 requirements. The instruction of each requirement is given with the corresponding illustration.
 
 Deliverable 1. Requirement 1. "A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df"
+
 Deliverable 1. Requirement 2. "A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df"
 ![](Resources/D1R1.png)
 
 Deliverable 1. Requirement 3. "Logical and comparison operators are used to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df"
+
 Deliberable 1. Requirement 4. "Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df"
 ![](Resources/D1R2.png)
 
