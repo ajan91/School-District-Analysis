@@ -2,11 +2,11 @@
 
 # Overview
 
-**Background
+**Background**
 
 The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
 
-**Purpose
+**Purpose**
 
 The purpose of this analysis is to establish the following:
 
@@ -50,7 +50,7 @@ Deliverable 1 Outcome.
 
 # Deliverable 2: Repeat the School District Analysis
 
-**Deliverable 2 Instructions
+**Deliverable 2 Instructions**
 
 "Repeat the school district analysis you did in this module, and recreate the following metrics:
 - The district summary
@@ -92,7 +92,8 @@ Deliverable 2. Requirement 9. "The scores by school type"
 # Discussion
 
 # Deliverable 3: A Written Report for the School District Analysis
-The analysis should contain the following:
+
+**The analysis should contain the following:**
 
 "Overview of the school district analysis: Explain the purpose of this analysis."
 *See Above in the Introduction
